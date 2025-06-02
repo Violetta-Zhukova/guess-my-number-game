@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Guess My Number!</title>
+    <link rel="stylesheet" href="./fonts/fonts.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Угадай цифру!</h1>
+      <p class="between">(Между 1 и 20)</p>
+      <button class="btn again">Попробуй еще раз!</button>
+      <div class="number">?</div>
+    </header>
+    <main>
+      <section class="left">
+        <input type="number" class="guess" />
+        <button class="btn check">Проверь!</button>
+      </section>
+      <section class="right">
+        <p class="message">Начинаю угадывать...</p>
+        <p class="label-score">💯 Счет: <span class="score">20</span></p>
+        <p class="label-highscore">
+          🥇 Рекорд: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
+    <script src="./scripts/script.js"></script>
+  </body>
+</html>
