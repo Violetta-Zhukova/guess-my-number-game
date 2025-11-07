@@ -7,8 +7,8 @@ The game also saves the user's high score until the browser is updated.
 
 My goal was to practice writing JS code.
 
-<img width="500" alt="image" src="https://github.com/Violetta-Zhukova/guess-my-number-game/blob/main/guess-my-number.png">
-<img width="500" alt="image" src="https://github.com/Violetta-Zhukova/guess-my-number-game/blob/main/guess-my-number-winner.png">
+<img width="500" alt="image" src="./styles/guess-my-number.png">
+<img width="500" alt="image" src="./styles/guess-my-number-winner.png">
 
 ## Stack
 
