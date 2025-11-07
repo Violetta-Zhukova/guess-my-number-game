@@ -1,17 +1,13 @@
-# Guess my number funny game (JS)
+# Игра "Угадай число" (JS)
 
-This is a simple game in which a user tries to guess a number between 1 and 20.
+Это простая игра, в которой пользователю необходимо угадать число от 1 до 20.
+При этом пользователь получает подсказки, если его число меньше или больше загаданного. Также в игре ведется счет и сохраняется рекорд (пока пользователь не обновит браузер).
 
-A user receives hints if the number is higher or lower than the guessed number.
-The game also saves the user's high score until the browser is updated.
+Цель проекта - потренироваться работать с DOM и писать на JS.
 
-My goal was to practice writing JS code.
+<img width="350" alt="image" src="./styles/guess-my-number.png">  
+<img width="350" alt="image" src="./styles/guess-my-number-winner.png">
 
-<img width="300" alt="image" src="./styles/guess-my-number.png">  
-<img width="300" alt="image" src="./styles/guess-my-number-winner.png">
+## Стек
 
-## Stack
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
